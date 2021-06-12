@@ -6,7 +6,13 @@
 163邮箱：android_work_2013@163.com    
 Gmail：xuxingchen2016@gmail.com    
 GitHub：https://github.com/SevenNight2012    
-### 个人评价
+### 工作经历
+1. 2018/10~至今，北京明日虫洞科技有限公司
+2. 2017/05~2018/10，北京行者天下科技有限公司
+3. 2016/04~2017/05，北京一路热点信息技术有限公司
+4. 2014/12~2016/03，道安晋通信技术有限公司
+
+### 自我评价
 - 具有强烈的求知欲，熟练使用GitHub，Google等资源
 - 喜欢钻研，热衷于探索Alfred，AppleScript，AppleService，Charles等能提升效率的工具
 - 热爱折腾，喜欢折腾群晖，软路由，tasker等软硬件产品
